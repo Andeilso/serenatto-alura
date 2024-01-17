@@ -30,7 +30,7 @@ O site Serenatto é um projeto de uma loja virtual Café & Bistrô, criado para 
 Realizado através do curso de Bootstrap da Alura.
 <br>
 <br>
-Acesse o site em [Live](https://meteora-alura-psi.vercel.app/) no Vercel.
+Acesse o site em [Live](https://serenatto-alura.vercel.app/) no Vercel.
 
 
 
